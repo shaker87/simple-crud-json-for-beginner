@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Danger Hasib",
+      "email": "hasib@gmail.com",
+      "phone": "01866568978",
+      "id": 2
+    },
+    {
+      "name": "Riyaj",
+      "email": "shaker.hossain87@gmail.com",
+      "phone": "01866568978",
+      "id": 3
+    },
+    {
+      "name": "Farid Vai",
+      "email": "shaker.hossain87@gmail.com",
+      "phone": "01866568978",
+      "id": 4
+    },
+    {
+      "name": "Shaker Hossain",
+      "email": "sakerahmmed978@gmail.com",
+      "phone": "01866568978",
+      "id": 5
+    }
+  ]
+}
